@@ -23,7 +23,7 @@ app.add_middleware(
 
 # Define Hugging Face API URL and headers
 API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev"
-headers = {"Authorization": "Bearer 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"}  # Replace with your Hugging Face API key
+headers = {"Authorization": "Bearer YOUR_API_KEY"}  # Replace with your Hugging Face API key
 
 # Define the input model for the prompt
 class PromptInput(BaseModel):
