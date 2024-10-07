@@ -27,10 +27,11 @@ The server will start at `http://127.0.0.1:8000`.
 
 ## Step 4: Set Up the Frontend
 
-1. Navigate to the frontend directory:
+1. Navigate to the frontend directory
 
 
 2. Install dependencies using bun:
+ `bun install`
 
  
 ## Step 5: Run the Frontend Application
